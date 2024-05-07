@@ -1,6 +1,9 @@
-# Hi there 👋
+# Hi there! <img src="https://gifdb.com/images/high/waving-hand-cute-happy-emoticon-m8zfd60nf1atzua8.gif" width="50" height="50">
 
-I'm Vidhi, a coding beginner from The Hague, Netherlands.
+
+
+I'm Vidhi, a coding beginner from The Hague, Netherlands. 
+
 
 I'm still learning about the different fields in tech but I am primarily interested in projects that can help make a positive change. 
 
